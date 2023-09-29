@@ -1,6 +1,6 @@
 # React + Vite + ChatGPT project
 
-## App view
+## Web Page view
 ![Front Page Screenshot](public/page_view.png)
 
 ## Dependencies
